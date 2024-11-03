@@ -1,0 +1,14 @@
+[
+    {
+        "name": "sql",
+        "description": "basics",
+        "due_date": "2024-10-23",
+        "completed": true
+    },
+    {
+        "name": "python",
+        "description": "basics",
+        "due_date": "2024-12-1",
+        "completed": false
+    }
+]
